@@ -14,3 +14,4 @@ PHP versi 7
 ```console
 php ./generate_pdf.php
 ```
+- sertifikat yang berhasil di-generate ada di folder "pdf"
