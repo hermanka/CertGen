@@ -1,0 +1,7 @@
+{
+    "require": {
+        "weberhofer/jsonrpcphp": "^2.2",
+        "phpmailer/phpmailer": "^6.6",
+        "mpdf/mpdf": "^8.1"
+    }
+}

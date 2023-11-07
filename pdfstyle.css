@@ -1,0 +1,21 @@
+@font-face {
+    font-family: FiraSans;
+    src: url(FiraSansCondensed-Regular.ttf);
+}
+
+body {
+    background-image: url('bg-sertifikat.png');
+    background-position: top left;
+    background-repeat: no-repeat;
+    background-image-resize: 4;
+    background-image-resolution: from-image;
+}
+
+.cert-name {
+    font-family: 'fira-sans';
+    font-size: 30pt;
+    margin:0 auto;
+    text-align: center;
+    padding-top: 280px;
+    color: #1E2A5B;
+}
